@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-Hi, I’m Akachaosbox, an AI Algorithm Engineer specializing in Medical Imaging from China. Excel in Python, C++, and Java, 
+🔭 Hi, I’m Akachaosbox, an AI Algorithm Engineer specializing in Medical Imaging from China. Excel in Python, C++, and Java, 
 
