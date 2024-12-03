@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 🔭 Hi, I’m Akachaosbox, an AI Algorithm Engineer specializing in Medical Imaging from China. Excel in Python, C++, and Java
 
-🔭 知名CV算法工程师（Ctrl-V）, 
+🔭 知名CV算法工程师（Ctrl-C+V）,
+
+😄 三观正常的乐子人
 
