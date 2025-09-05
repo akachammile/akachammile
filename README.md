@@ -19,6 +19,7 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" height="200"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
 
 
 ---
