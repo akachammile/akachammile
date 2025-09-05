@@ -18,9 +18,16 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" height="200"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachammile&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🌍 Connect with me
