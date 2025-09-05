@@ -2,7 +2,7 @@
 
 🔭 AI Algorithm Engineer specializing in **Medical Imaging**  
 💻 Skilled in **Python, C++, Java**  
-🌱 Currently learning **Modern C++**  
+🌱 Currently learning **Modern C++**  and **TypeScript**
 😄 三观正常的乐子人  
 
 ---
