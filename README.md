@@ -23,12 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachammile&layout=compact&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akachammile&theme=dark" height="140"/>
-</p>
 ---
-
 ## 🌍 Connect with me
 - 💼 [LinkedIn]
 - 🐦 [Twitter]
