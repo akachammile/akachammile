@@ -18,8 +18,8 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachammile&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" />
 
 
 ---
