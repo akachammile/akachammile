@@ -3,8 +3,7 @@
 🔭 AI Algorithm Engineer specializing in **Medical Imaging**  
 💻 Skilled in **Python, C++, Java**  
 🌱 Currently learning **Modern C++**  and **TypeScript**
-😄 And i really like chainsaw-man
-
+😄 And i really like **chainsaw-man**
 ---
 
 ## 🚀 Tech Stack
@@ -13,8 +12,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
