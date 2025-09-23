@@ -3,7 +3,9 @@
 🔭 AI Algorithm Engineer specializing in **Medical Imaging**  
 💻 Skilled in **Python, C++, Java**  
 🌱 Currently learning **Modern C++**  and **TypeScript**  
-😄 And i really like **chainsaw-man**
+😄 I really like **chainsaw-man**
+
+
 ---
 
 ## 🚀 Tech Stack
