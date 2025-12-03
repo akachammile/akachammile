@@ -16,11 +16,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical" />
-
-
-
 ---
 ## 🌍 Connect with me
 - 💼 [LinkedIn]
