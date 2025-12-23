@@ -1,22 +1,13 @@
 # Hi there 👋 I'm Akachaosbox
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=EE4C2C&height=200&section=header&text=Akachaosbox&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=EE4C2C&height=200&section=header&text=akachammile&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
   <h3>🔭 AI Algorithm Engineer specializing in <b>Medical Imaging</b></h3>
-  <p><i>“Fuck all of you.”</i></p>
+  <p><i>“Stay curious, keep coding, and make fun of the world while building it.”</i></p>
 </div>
-
----
-
-### 🚀 About Me
-
-- 💻 **Core Domain**: Deep Learning, Computer Vision, and high-performance computing in **Medical Imaging**.
-- 🛠️ **Tech Ninja**: Armed with **Python, C++, and Java**.
-- 🌱 **Growth Mindset**: Diving deep into **Modern C++ (C++17/20)** and **TypeScript** to build more robust and scalable systems.
-- 😄 **Personal Style**: Huge fan of **Chainsaw-man (电锯人)**. Like Denji, I code with raw power and a simple dream!
 
 ---
 
@@ -33,10 +24,11 @@
 ---
 
 ### 📈 GitHub Stats
+<!-- 请把下方链接中的 YOUR_GITHUB_ID 替换为你真实的 GitHub ID -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akachaosbox&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akachaosbox&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akachammile&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akachammile&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -45,19 +37,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://your-twitter-link)
-[![Bilibili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://your-bilibili-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的链接) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](你的链接)
+[![Bilibili](https://img.shields.io/badge/BiliBili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](你的链接)
 
 </div>
 
 ---
 
 ### 🔥 Chainsaw-man Mood
-> *"If there's a devil that I could be friends with, then I'd say yeah, I'd want to. Because I don't have any friends."*
-> 
-> **Latest Repo Progress:** 🪚🪚🪚 (Cutting through bugs like Pochita!)
+> *"Everyone's after my heart... what about me? Does anyone want me, Denji?"*
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Akachaosbox&color=EE4C2C&style=flat-square&label=VISITORS" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&color=EE4C2C&style=flat-square&label=VISITORS" alt="visitors" />
 </div>
