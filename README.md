@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Akachaosbox
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=EE4C2C&height=200&section=header&text=akachammile&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Akachammile-Algorithm--Engineer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Medical--Imaging-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+</p>
 
 <div align="center">
   <h3>🔭 AI Algorithm Engineer specializing in <b>Medical Imaging</b></h3>
