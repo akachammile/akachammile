@@ -1,4 +1,10 @@
 # Hi there 👋 I'm Akachaosbox
+<div align="center">
+  <img src="https://metrics.lecoq.io/akachammile?template=classic&config.timezone=Asia%2FShanghai"> 
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akachammile" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Akachammile-Algorithm--Engineer-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40"/>
