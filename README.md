@@ -1,6 +1,6 @@
 # Hi, I'm leejuju 👋
 
-📍 China | 🤖 AI Agent Developer | 🚀 Building Autonomous Systems
+📍 China | 🤖 AI Agent Developer | 🚀 Building Agent Systems | 🤔 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -9,8 +9,7 @@
 ![Qwen](https://img.shields.io/badge/LLM-Qwen-blue?style=flat)
 
 > Deep in **Agentic Workflow** mode – building multi-agent systems that actually solve problems. Focusing on RAG, DPO, and Engineering Reliability.
->
-> *"It's all good, man."* — *Better Call Saul* ⚖️
+----------
 
 🔎 [Check out my technical blog / Portfolio](https://your-blog-link.com)
 
@@ -32,5 +31,6 @@
 
 ---
 ** 
+> *"It's all good, man."* — *Better Call Saul* ⚖️
 
 
