@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Akachaosbox
+# Hi there 👋 I'm leejuju
 
 <div align="center">
-  <h3>🔭 AI Algorithm Engineer specializing in <b>Medical Imaging</b></h3>
+  <h3>🔭 AI Agent Engineer (fake)
 </div>
 
 ---
