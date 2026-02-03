@@ -11,11 +11,9 @@
 > Deep in **Agentic Workflow** mode – building multi-agent systems that actually solve problems. Focusing on RAG, DPO, and Engineering Reliability.
 ----------
 
-🔎 [Check out my technical blog / Portfolio](https://your-blog-link.com)
-
 ## Current Projects
 
-* 🛰️ **[multi-agent-design-patterns](https://link-to-repo)** - The AI that analyzes satellite imagery.
+* 🔍 **[multi-agent-design-patterns](https://link-to-repo)** - The AI that analyzes satellite imagery.
     * *Architecture:* Autonomous workflow integrating **YOLO** & **SAM2** for segmentation.
     * *Stack:* LangGraph, PyTorch.
 
