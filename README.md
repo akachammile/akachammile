@@ -1,6 +1,6 @@
 # Hi, I'm leejuju 👋
 
-📍 China | 🤖 AI Agent Developer | 🚀 Building Agent Systems | 🤔 
+📍 China | 🤖 AI Agent Developer | 🤔 Agentic Designer | 🚀 Building AgentBot Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -13,7 +13,7 @@
 
 ## Current Projects
 
-* 🔍 **[multi-agent-design-patterns](https://link-to-repo)** - Multi-Agent Design Patterns Lab: A full-stack LLM practical project.
+* 🔍 **[multi-agent-design-patterns]([https://link-to-repo](https://github.com/akachammile/multi-agent-design-patterns.git))** - Multi-Agent Design Patterns Lab: A full-stack LLM practical project.
 * It covers everything from the fundamentals of LLM training and fine-tuning (Transformer/BERT), to the construction of standardized single-agent architectures, and onto complex multi-agent collaboration (Swarm) designs.
 * It also delves into the source code of frameworks like LangChain to systematically master the core technologies of large model application development.
 
