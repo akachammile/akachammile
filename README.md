@@ -13,7 +13,7 @@
 
 ## Current Projects
 
-* 🔍 **[multi-agent-design-patterns]([https://link-to-repo](https://github.com/akachammile/multi-agent-design-patterns.git))** - Multi-Agent Design Patterns Lab: A full-stack LLM practical project.
+* 🔍 **[multi-agent-design-patterns]([https://github.com/akachammile/multi-agent-design-patterns.git)]** - Multi-Agent Design Patterns Lab: A full-stack LLM practical project.
 * It covers everything from the fundamentals of LLM training and fine-tuning (Transformer/BERT), to the construction of standardized single-agent architectures, and onto complex multi-agent collaboration (Swarm) designs.
 * It also delves into the source code of frameworks like LangChain to systematically master the core technologies of large model application development.
 
